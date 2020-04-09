@@ -134,8 +134,6 @@ leftFront.set_brake_mode(pros:: E_MOTOR_BRAKE_COAST);
 leftBack.set_brake_mode(pros:: E_MOTOR_BRAKE_COAST);
 }
 
-
-
 void turn(int degrees) {
 
   int time = 0;
